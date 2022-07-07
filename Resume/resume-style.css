@@ -1,0 +1,22 @@
+header{
+    border: 1px solid black;
+    text-align: center;
+}
+
+section {
+    margin: 20px;
+    /*border: 1px solid black; */
+    display: grid;
+    grid-template-columns: 35% 65%;
+}
+
+div {
+    margin: 10px;
+
+    padding 10 px;
+}
+
+footer {
+    text-align: center;
+
+}
